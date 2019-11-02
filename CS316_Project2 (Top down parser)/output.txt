@@ -1,0 +1,33 @@
+0: iconst -123
+1: iload 5
+2: istore 6
+3: fconst 26.587
+4: fload 1
+5: fstore 
+6: iadd
+7: isub
+8: imul
+9: idiv
+10: fadd
+11: fsub
+12: fmul
+13: fdiv
+14: intToFloat
+15: Icmpeq  32
+16: Icmpne  32
+17: Icmplt  32
+18: Icmple  32
+19: Icmpgt  32
+20: Icmpge  32
+21: Fcmpeq 32
+22: Fcmpne  32
+23: Fcmplt  32
+24: Fcmple  32
+25: Fcmpgt  32
+26: Fcmpge  32
+27: goto: 20
+28: Invoke: 6,3,4
+29: return
+30: ireturn
+31: freturn
+32: print 5
