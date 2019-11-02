@@ -1,0 +1,7 @@
+1. Open the project in Eclipse.
+
+2. Go to run configurations 
+and change the arugments parameter to 
+t1.txt,t t2.txt,...,t7.txt.
+
+3. Apply and Run the program to get the output.
